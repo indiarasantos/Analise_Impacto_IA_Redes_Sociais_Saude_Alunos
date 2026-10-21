@@ -9,7 +9,14 @@ conexao = mysql.connector.connect(
             database="impacto_ia_redes_sociais"
         )
 
+
 # --- As 5 consultas estratégicas ---
+# 1 --  Levanta o total de alunos e as faixas de idade dentro de cada nível de escolaridade e genero.
+# 2 -- Verifica como o aumento das horas em redes sociais reduz o tempo de sono e de atividade física, enquanto o uso de IA permanece estável.
+# 3 -- Analisa isoladamente a tabela saude para classificar os estudantes em faixas de saúde mental e comparar com a média de saúde física.
+# 4 -- Prova de que o aumento das horas em redes sociais derruba as pontuações de saúde.
+# 5 -- Localizar por escolaridade e genero os estudantes em situação crítica (mais de 6h de redes sociais, menos de 6h de sono e saúde mental abaixo de 65).
+
 consultas = {
     "1_perfil_escolaridade_genero":"""
 SELECT 
