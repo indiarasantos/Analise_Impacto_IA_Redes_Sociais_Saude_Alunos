@@ -6,7 +6,7 @@ conexao = mysql.connector.connect(
             host="127.0.0.1",
             user="root",
             password="",
-            database="c:\\Users\\indiara.silva\\OneDrive - SENAC RIO\\Documentos\\Projeto2026\\Analise_Impacto_IA_Redes_Sociais_Saude_Alunos\\Parte1_AnálisePandas_IntegraçãoPyhtonSQL\\impacto_ia_redes_sociais_estudantes.csv"
+            database="impacto_ia_redes_sociais"
         )
 
 # --- As 5 consultas estratégicas ---
