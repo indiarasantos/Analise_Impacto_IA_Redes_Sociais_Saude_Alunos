@@ -1,0 +1,50 @@
+﻿variavel_x;variavel_y;pearson;spearman
+Horas em redes;Horas em redes;1,0;1,0
+Horas de sono;Horas em redes;-0,7617;-0,7502
+Bem-estar;Horas em redes;-0,6328;-0,6214
+Atenção (min);Horas em redes;-0,4334;-0,4224
+Vício digital;Horas em redes;0,8429;0,8289
+Risco acadêmico;Horas em redes;0,1784;0,1947
+Frequência às aulas;Horas em redes;-0,2766;-0,2676
+Horas em redes;Horas de sono;-0,7617;-0,7502
+Horas de sono;Horas de sono;1,0;1,0
+Bem-estar;Horas de sono;0,697;0,6873
+Atenção (min);Horas de sono;0,3809;0,3729
+Vício digital;Horas de sono;-0,7277;-0,7146
+Risco acadêmico;Horas de sono;-0,1511;-0,1758
+Frequência às aulas;Horas de sono;0,2427;0,2361
+Horas em redes;Bem-estar;-0,6328;-0,6214
+Horas de sono;Bem-estar;0,697;0,6873
+Bem-estar;Bem-estar;1,0;1,0
+Atenção (min);Bem-estar;0,3572;0,35
+Vício digital;Bem-estar;-0,6298;-0,6178
+Risco acadêmico;Bem-estar;-0,1449;-0,1652
+Frequência às aulas;Bem-estar;0,2263;0,2199
+Horas em redes;Atenção (min);-0,4334;-0,4224
+Horas de sono;Atenção (min);0,3809;0,3729
+Bem-estar;Atenção (min);0,3572;0,35
+Atenção (min);Atenção (min);1,0;1,0
+Vício digital;Atenção (min);-0,5049;-0,4933
+Risco acadêmico;Atenção (min);-0,273;-0,2568
+Frequência às aulas;Atenção (min);0,5337;0,5227
+Horas em redes;Vício digital;0,8429;0,8289
+Horas de sono;Vício digital;-0,7277;-0,7146
+Bem-estar;Vício digital;-0,6298;-0,6178
+Atenção (min);Vício digital;-0,5049;-0,4933
+Vício digital;Vício digital;1,0;1,0
+Risco acadêmico;Vício digital;0,2121;0,2222
+Frequência às aulas;Vício digital;-0,3204;-0,3104
+Horas em redes;Risco acadêmico;0,1784;0,1947
+Horas de sono;Risco acadêmico;-0,1511;-0,1758
+Bem-estar;Risco acadêmico;-0,1449;-0,1652
+Atenção (min);Risco acadêmico;-0,273;-0,2568
+Vício digital;Risco acadêmico;0,2121;0,2222
+Risco acadêmico;Risco acadêmico;1,0;1,0
+Frequência às aulas;Risco acadêmico;-0,1738;-0,1847
+Horas em redes;Frequência às aulas;-0,2766;-0,2676
+Horas de sono;Frequência às aulas;0,2427;0,2361
+Bem-estar;Frequência às aulas;0,2263;0,2199
+Atenção (min);Frequência às aulas;0,5337;0,5227
+Vício digital;Frequência às aulas;-0,3204;-0,3104
+Risco acadêmico;Frequência às aulas;-0,1738;-0,1847
+Frequência às aulas;Frequência às aulas;1,0;1,0

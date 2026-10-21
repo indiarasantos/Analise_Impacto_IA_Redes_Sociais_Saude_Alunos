@@ -1,0 +1,17 @@
+﻿medida;valor
+Média;3,3608
+Mediana;3,29
+Moda;2,88
+Variância;1,6716
+Desvio padrão;1,2929
+Amplitude total;9,0
+Q1;2,46
+Q2 (mediana);3,29
+Q3;4,2
+IQR;1,74
+Assimetria;0,2926
+Curtose;0,0478
+Limite inferior outliers;-0,15
+Limite superior outliers;6,81
+Qtd outliers;3563,0
+% outliers;0,7126

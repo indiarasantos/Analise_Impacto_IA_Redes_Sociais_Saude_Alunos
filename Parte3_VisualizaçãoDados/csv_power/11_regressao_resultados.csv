@@ -1,0 +1,6 @@
+﻿modelo;alvo;preditores;n;r2_teste;mae;rmse
+C. Sono ~ redes;horas_sono;horas_redes_sociais;500000;0,5801;0,504;0,629
+B. Bem-estar ~ redes + sono;indice_bem_estar;horas_redes_sociais, horas_sono;500000;0,5107;5,902;7,394
+A. Bem-estar ~ redes sociais;indice_bem_estar;horas_redes_sociais;500000;0,4021;6,535;8,173
+E. Atenção ~ redes + sono;capacidade_atencao_minutos;horas_redes_sociais, horas_sono;500000;0,1972;3,672;4,506
+D. Frequência ~ redes + sono;taxa_frequencia_aulas;horas_redes_sociais, horas_sono;500000;0,0791;4,795;5,874

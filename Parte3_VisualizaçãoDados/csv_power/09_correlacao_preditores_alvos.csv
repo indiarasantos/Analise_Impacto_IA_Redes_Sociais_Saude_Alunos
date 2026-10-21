@@ -1,0 +1,11 @@
+﻿preditor;alvo;pearson;spearman;r2;forca;direcao
+horas_redes_sociais;horas_sono;-0,7617;-0,7502;0,5802;forte;negativa
+pontuacao_vicio_digital;horas_sono;-0,7277;-0,7146;0,5296;forte;negativa
+horas_redes_sociais;indice_bem_estar;-0,6328;-0,6214;0,4004;forte;negativa
+pontuacao_vicio_digital;indice_bem_estar;-0,6298;-0,6178;0,3967;forte;negativa
+pontuacao_vicio_digital;capacidade_atencao_minutos;-0,5049;-0,4933;0,2549;forte;negativa
+horas_redes_sociais;capacidade_atencao_minutos;-0,4334;-0,4224;0,1878;moderada;negativa
+pontuacao_vicio_digital;taxa_frequencia_aulas;-0,3204;-0,3104;0,1026;moderada;negativa
+horas_redes_sociais;taxa_frequencia_aulas;-0,2766;-0,2676;0,0765;fraca;negativa
+pontuacao_vicio_digital;pontuacao_risco_academico;0,2121;0,2222;0,045;fraca;positiva
+horas_redes_sociais;pontuacao_risco_academico;0,1784;0,1947;0,0318;fraca;positiva

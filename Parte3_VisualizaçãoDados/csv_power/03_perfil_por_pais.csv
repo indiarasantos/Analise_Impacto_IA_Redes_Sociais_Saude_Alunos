@@ -1,0 +1,51 @@
+﻿pais;nivel_desenvolvimento;estudantes;media_horas_redes_sociais;media_horas_sono;media_pontuacao_vicio_digital;media_indice_bem_estar;media_taxa_frequencia_aulas;media_capacidade_atencao_minutos;media_pontuacao_risco_academico
+Alemanha;Desenvolvido;9859;4,23;5,5;17,45;52,79;89,99;52,63;0,18
+Argentina;Em desenvolvimento;10039;3,6;5,86;15,0;55,91;90,48;53,35;0,11
+Arábia Saudita;Em desenvolvimento;10105;3,48;5,91;14,54;56,56;90,63;53,48;0,11
+Austrália;Desenvolvido;9940;3,85;5,71;16,01;54,65;90,33;53,19;0,15
+Bangladesh;Subdesenvolvido;10138;2,8;6,32;11,92;60,28;91,16;54,25;0,07
+Bolívia;Subdesenvolvido;10042;2,7;6,37;11,52;60,72;91,19;54,44;0,05
+Brasil;Em desenvolvimento;9906;3,61;5,84;15,01;56,01;90,53;53,38;0,12
+Camboja;Subdesenvolvido;10190;2,91;6,25;12,31;59,7;91,01;54,15;0,06
+Canadá;Desenvolvido;10109;4,17;5,54;17,21;52,97;90,09;52,7;0,19
+Catar;Em desenvolvimento;9954;3,2;6,08;13,39;58,19;91,01;54,01;0,08
+Cazaquistão;Em desenvolvimento;10168;3,23;6,06;13,57;57,86;90,93;53,9;0,09
+Chile;Em desenvolvimento;10033;3,01;6,19;12,7;59,11;91,2;54,27;0,08
+China;Em desenvolvimento;10180;3,4;5,97;14,19;56,97;90,73;53,62;0,11
+Coreia do Sul;Desenvolvido;9915;3,79;5,75;15,66;55,13;90,51;53,33;0,15
+Dinamarca;Desenvolvido;10037;3,98;5,64;16,5;54,06;90,32;53,04;0,17
+Emirados Árabes Unidos;Em desenvolvimento;9795;3,68;5,8;15,31;55,61;90,33;53,21;0,14
+Estados Unidos;Desenvolvido;10029;4,29;5,47;17,64;52,56;89,87;52,5;0,21
+Etiópia;Subdesenvolvido;10024;2,34;6,59;10,14;62,48;91,59;54,89;0,04
+Filipinas;Em desenvolvimento;9953;3,53;5,89;14,74;56,39;90,58;53,45;0,12
+França;Desenvolvido;10104;4,07;5,59;16,83;53,66;90,22;52,77;0,19
+Gana;Subdesenvolvido;9985;2,34;6,58;10,14;62,67;91,62;54,92;0,04
+Indonésia;Em desenvolvimento;10060;3,59;5,86;14,99;56,19;90,51;53,4;0,12
+Japão;Desenvolvido;9822;4,25;5,47;17,57;52,55;90,04;52,58;0,21
+Kuwait;Em desenvolvimento;10031;3,0;6,2;12,66;59,16;91,14;54,26;0,08
+Laos;Subdesenvolvido;9834;2,67;6,39;11,4;60,85;91,24;54,41;0,04
+Malásia;Em desenvolvimento;10189;2,94;6,23;12,41;59,39;91,25;54,36;0,08
+Marrocos;Subdesenvolvido;9877;2,27;6,62;9,89;62,83;91,63;55,03;0,04
+México;Em desenvolvimento;10080;2,99;6,2;12,58;59,11;91,23;54,32;0,07
+Nepal;Subdesenvolvido;9768;2,92;6,25;12,37;59,56;90,96;54,1;0,08
+Nigéria;Subdesenvolvido;10026;3,01;6,19;12,7;59,07;90,91;53,98;0,08
+Noruega;Desenvolvido;9951;3,93;5,67;16,33;54,25;90,34;52,9;0,16
+Nova Zelândia;Desenvolvido;10099;3,9;5,69;16,18;54,52;90,52;53,21;0,15
+Omã;Em desenvolvimento;9849;3,18;6,08;13,38;58,16;91,06;54,05;0,09
+Paquistão;Subdesenvolvido;10104;2,87;6,27;12,15;59,74;91,11;54,23;0,07
+Países Baixos;Desenvolvido;9892;3,89;5,69;16,12;54,7;90,44;53,19;0,15
+Peru;Subdesenvolvido;10067;2,62;6,43;11,2;61,17;91,33;54,47;0,05
+Polônia;Em desenvolvimento;10026;3,25;6,05;13,66;57,7;90,89;53,96;0,09
+Quênia;Subdesenvolvido;10109;2,65;6,4;11,31;61,0;91,22;54,43;0,07
+Reino Unido;Desenvolvido;10011;4,26;5,48;17,57;52,58;89,94;52,53;0,19
+Romênia;Em desenvolvimento;9978;3,04;6,17;12,91;58,83;91,13;54,23;0,08
+Singapura;Desenvolvido;9876;3,94;5,66;16,32;54,19;90,37;53,09;0,15
+Sri Lanka;Subdesenvolvido;10009;2,73;6,35;11,64;60,41;91,25;54,41;0,06
+Suécia;Desenvolvido;9923;3,74;5,76;15,55;55,21;90,7;53,41;0,14
+Suíça;Desenvolvido;9981;4,21;5,51;17,33;52,95;90,19;52,64;0,22
+Tailândia;Em desenvolvimento;10102;3,1;6,14;13,09;58,67;91,05;54,08;0,09
+Tanzânia;Subdesenvolvido;9933;2,87;6,27;12,19;59,76;91,03;54,18;0,06
+Turquia;Em desenvolvimento;9914;3,79;5,73;15,76;55,16;90,28;53,06;0,13
+Vietnã;Em desenvolvimento;9975;3,57;5,87;14,84;56,12;90,58;53,42;0,13
+África do Sul;Em desenvolvimento;9821;3,63;5,84;15,2;55,9;90,52;53,29;0,13
+Índia;Em desenvolvimento;10188;3,06;6,15;12,89;58,65;91,28;54,27;0,07

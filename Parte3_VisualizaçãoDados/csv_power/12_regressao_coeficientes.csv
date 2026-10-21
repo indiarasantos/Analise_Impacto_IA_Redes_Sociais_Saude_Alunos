@@ -1,0 +1,9 @@
+﻿modelo;variavel;coeficiente;beta_padronizado
+A. Bem-estar ~ redes sociais;horas_redes_sociais;-5,1704;-0,6328
+B. Bem-estar ~ redes + sono;horas_redes_sociais;-1,9749;-0,2426
+B. Bem-estar ~ redes + sono;horas_sono;5,5803;0,5123
+C. Sono ~ redes;horas_redes_sociais;-0,5727;-0,7617
+D. Frequência ~ redes + sono;horas_redes_sociais;-1,0313;-0,2186
+D. Frequência ~ redes + sono;horas_sono;0,475;0,0761
+E. Atenção ~ redes + sono;horas_redes_sociais;-1,3097;-0,3412
+E. Atenção ~ redes + sono;horas_sono;0,63;0,121
