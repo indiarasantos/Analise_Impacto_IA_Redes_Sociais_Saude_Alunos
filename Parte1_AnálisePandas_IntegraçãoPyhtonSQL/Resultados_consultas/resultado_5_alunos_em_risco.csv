@@ -1,0 +1,10 @@
+escolaridade,genero,alunos_em_risco,media_redes_sociais,media_ia,media_saude_mental
+Ensino Medio,Masculino,190,7.9,2.95,57.9
+Ensino Medio,Feminino,178,7.85,2.98,56.02
+Universidade,Masculino,142,7.95,3.05,56.41
+Faculdade,Masculino,142,7.96,3.09,57.98
+Universidade,Feminino,140,7.84,2.96,58.18
+Faculdade,Feminino,136,8.16,2.92,56.52
+Faculdade,Nao binario,14,7.45,3.73,56.85
+Universidade,Nao binario,14,7.76,2.99,53.55
+Ensino Medio,Nao binario,12,7.54,3.17,56.3

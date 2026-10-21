@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 1. Carregar o ficheiro CSV
-df = pd.read_csv("C:\\Users\\dialuan.lima\\Documents\\CursoAnalistaDadosBigData2026\\estatistica_projeto\\impacto_ia_redes_sociais_estudantes.csv")
+df = pd.read_csv("impacto_ia_redes_sociais_estudantes.csv")
 
 # Lista com os nomes exatos das colunas numéricas do CSV
 colunas_numericas = [

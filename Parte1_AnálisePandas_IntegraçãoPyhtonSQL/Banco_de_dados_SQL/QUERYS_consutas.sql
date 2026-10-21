@@ -28,7 +28,7 @@ FROM habitos
 GROUP BY faixa_redes_sociais
 ORDER BY faixa_redes_sociais;
 
--- Analisa isoladamente a tabela saude para classificar os estudantes em faixas de saúde mentale comparar com a média de saúde física.
+-- Analisa isoladamente a tabela saude para classificar os estudantes em faixas de saúde mental e comparar com a média de saúde física.
 SELECT 
     CASE 
         WHEN pontuacao_mental < 65 THEN '1. Alerta / Baixa (<65)'
