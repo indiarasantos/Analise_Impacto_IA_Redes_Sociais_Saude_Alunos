@@ -1,0 +1,10 @@
+escolaridade,genero,total_alunos,idade_minima,media_idade,idade_maxima
+Ensino Medio,Masculino,2939,13,15.0,17
+Ensino Medio,Feminino,2922,13,15.0,17
+Ensino Medio,Nao binario,222,13,15.1,17
+Faculdade,Masculino,2337,18,19.5,21
+Faculdade,Feminino,2337,18,19.5,21
+Faculdade,Nao binario,216,18,19.4,21
+Universidade,Masculino,2468,22,23.5,25
+Universidade,Feminino,2369,22,23.5,25
+Universidade,Nao binario,190,22,23.4,25
